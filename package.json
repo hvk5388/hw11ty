@@ -1,0 +1,23 @@
+{
+  "name": "hw11ty",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000P\u0000a\u0000g\u0000e\u0000 \u0000h\u0000e\u0000a\u0000d\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hvk5388/hw11ty.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hvk5388/hw11ty/issues"
+  },
+  "homepage": "https://github.com/hvk5388/hw11ty#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.3.3"
+  }
+}
